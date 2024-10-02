@@ -1,4 +1,4 @@
-# Movie Rating Prediction Project
+# 🎬 Movie Rating Prediction Project🎬
 
 ## Project Overview
 This project aims to predict movie ratings using machine learning techniques. By analyzing various features of Indian movies, such as year of release, votes, and duration, the model uncovers patterns that influence audience ratings.
